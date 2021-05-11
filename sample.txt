@@ -2,5 +2,7 @@ Esto es solo un ejemplo para la actividad del team
 Now in this line I am changing this file by adding more text into it.
 And here I am adding another line.
 
+<<<<<<< HEAD
 Here I am adding a different line
 and here as well
+=======
